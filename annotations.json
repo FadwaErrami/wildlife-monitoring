@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {"id": 0, "name": "Bird"},
+    {"id": 1, "name": "Eastern Gray Squirrel"},
+    {"id": 2, "name": "Eastern Chipmunk"},
+    {"id": 3, "name": "Woodchuck"},
+    {"id": 4, "name": "Wild Turkey"},
+    {"id": 5, "name": "White_Tailed_Deer"},
+    {"id": 6, "name": "Virginia Opossum"},
+    {"id": 7, "name": "Eastern Cottontail"},
+    {"id": 8, "name": "Human"},
+    {"id": 9, "name": "Vehicle"},
+    {"id": 10, "name": "Striped Skunk"},
+    {"id": 11, "name": "Red Fox"},
+    {"id": 12, "name": "Eastern Fox Squirrel"},
+    {"id": 13, "name": "Northern Raccoon"},
+    {"id": 14, "name": "Grey Fox"},
+    {"id": 15, "name": "Horse"},
+    {"id": 16, "name": "Dog"},
+    {"id": 17, "name": "American Crow"},
+    {"id": 18, "name": "Chicken"},
+    {"id": 19, "name": "Domestic Cat"},
+    {"id": 20, "name": "Coyote"},
+    {"id": 21, "name": "Bobcat"},
+    {"id": 22, "name": "American Black Bear"}
+  ]
+}

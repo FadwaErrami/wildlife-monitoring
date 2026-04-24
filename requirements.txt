@@ -1,0 +1,10 @@
+streamlit>=1.0
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.40.0
+safetensors
+opencv-python
+Pillow
+numpy>=1.23.0,<1.27
+pandas>=2.0.0,<3.0
